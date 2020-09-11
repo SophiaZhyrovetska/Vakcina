@@ -11,8 +11,7 @@
 * find which vaccines you need to do to travel abroad safely
 
 ## Usage
-Go to [vakcina.pythonanywhere.com](http://vakcina.pythonanywhere.com)
-Or, if you wish, you can run a local server on your computer. <br>
+Run a local server on your computer. <br>
 To do that, [clone](https://github.com/lazyTurtle21/Vakcina/archive/master.zip) the repository.
 Unzip it, and in the root folder run:
 ```sh
